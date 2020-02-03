@@ -1,4 +1,8 @@
 
+_Organizer's note:_ this project won the **creativity award** in iQuHACK 2020.
+
+---
+
 # QuhacMan: a Quantum Two-player PacMan Game
 
 Tareq El Dandachi, Matthew Baldwin, Qichen Song, Haozhe Wang
